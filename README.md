@@ -13,3 +13,10 @@ Unofficial clients for Kanvas. Get them in the Releases tab.
 * 2018E - N
 * 2018M - N
 * 2018L - N
+* 2019E - N
+* 2019M - N
+* 2019L - N
+* 2020E - N
+* 2020M - N
+* 2020L - N
+* 2021E - N
