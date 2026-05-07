@@ -1,4 +1,4 @@
-Unofficial clients for Kanvas.
+Unofficial clients for Kanvas. Get them in the Releases tab.
 ## Key
 * N = NO
 * Y = YES
