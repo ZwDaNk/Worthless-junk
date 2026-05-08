@@ -9,7 +9,7 @@ Unofficial clients for Kanvas. Get them in the Releases tab.
 * 2016S - N (CV v271/December 2016 (SYNTAX/RBLXHUB/IDK16/RFD))
 * 2017E - Y (CV v283/March 2017)
 * 2017M - Y (CV v300/July 2017, client is v299)
-* 2017L - N
+* 2017L - Cancelled (no client that matches with RCC that would get along well)
 * 2018E - N
 * 2018M - N
 * 2018L - N
