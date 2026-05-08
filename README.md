@@ -8,7 +8,7 @@ Unofficial clients for Kanvas. Get them in the Releases tab.
 * 2007M - Y (CV August 2007, has multiple security vulnerabilities)
 * 2016S - N (CV v271/December 2016 (SYNTAX/RBLXHUB/IDK16/RFD))
 * 2017E - Y (CV v283/March 2017)
-* 2017M - N
+* 2017M - Y (CV v300/July 2017, client is v299)
 * 2017L - N
 * 2018E - N
 * 2018M - N
