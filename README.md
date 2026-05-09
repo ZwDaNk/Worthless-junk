@@ -4,6 +4,7 @@ Huge props to littleau and the Dank group for helping with patching newer client
 ## Key
 * N = NO
 * Y = YES
+* WIP = Work In Progress
 * CV = Client Version, what version of Roblox a client uses
 ## Roadmap
 * 2007E - N (CV March 2007, has multiple security vulnerabilities)
@@ -12,7 +13,7 @@ Huge props to littleau and the Dank group for helping with patching newer client
 * 2017E - Y (CV v283/March 2017)
 * 2017M - Y (CV v300/July 2017, client is v299)
 * 2017L - Y (CV v314/October 2017, client is Project X's 2017L from 2024M (pre-SkidHOOKS))
-* 2018E - N
+* 2018E - WIP (CV v338/May 2018)
 * 2018M - N
 * 2018L - N
 * 2019E - N
