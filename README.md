@@ -11,7 +11,7 @@ Huge props to littleau and the Dank group for helping with patching newer client
 * 2016S - N (CV v271/December 2016 (SYNTAX/RBLXHUB/IDK16/RFD))
 * 2017E - Y (CV v283/March 2017)
 * 2017M - Y (CV v300/July 2017, client is v299)
-* 2017L - Y (CV v314/October 2017, client is Project X's 2017L from 2024M (pre-ShitHOOKS))
+* 2017L - Y (CV v314/October 2017, client is Project X's 2017L from 2024M (pre-SkidHOOKS))
 * 2018E - N
 * 2018M - N
 * 2018L - N
