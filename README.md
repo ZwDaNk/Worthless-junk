@@ -19,7 +19,3 @@ Huge props to littleau and the Dank group for helping with patching newer client
 * 2019E - N
 * 2019M - N
 * 2019L - N
-* 2020E - N
-* 2020M - N
-* 2020L - N
-* 2021E - N
