@@ -1,3 +1,6 @@
+This project has been deprecated; and we are now working on a alternative launcher instead. Come check it out!
+https://codeberg.org/ThoriumLauncher
+-------------------
 Unofficial clients for Kanvas. Get them in the Releases tab.
 
 Huge props to littleau and the Dank group for helping with patching newer clients. Since the Kanvas developer team has not decided on finishing newer clients yet, we are making our own and releasing them for free.
