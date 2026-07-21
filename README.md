@@ -8,17 +8,20 @@ Huge props to littleau and the Dank group for helping with patching newer client
 * N = NO
 * Y = YES
 * WIP = Work In Progress
+* NP = Not Planned
+* PT = Planned in Thorium
 * CV = Client Version, what version of Roblox a client uses
 ## Roadmap
-* 2007E - N (CV March 2007, has multiple security vulnerabilities)
+* 2007E - NP (CV March 2007, has multiple security vulnerabilities)
 * 2007M - Y (CV August 2007, has multiple security vulnerabilities)
-* 2016S - N (CV v271/December 2016 (SYNTAX/RBLXHUB/IDK16/RFD))
+* 2016S - PT (CV v271/December 2016 (SYNTAX/RBLXHUB/IDK16/RFD), use normal Kanvas instead since they have the same version)
 * 2017E - Y (CV v283/March 2017)
 * 2017M - Y (CV v300/July 2017, client is v299)
 * 2017L - Y (CV v314/October 2017, client is Project X's 2017L from 2024M (pre-SkidHOOKS))
-* 2018E - WIP (CV v338/May 2018)
-* 2018M - N
-* 2018L - N
-* 2019E - N
-* 2019M - N
-* 2019L - N
+* 2018E - PT (CV v338/May 2018)
+* 2018M - PT
+* 2018L - PT
+* 2019E - PT
+* 2019M - PT
+* 2019L - PT
+* 2020E - PT
