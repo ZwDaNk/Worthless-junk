@@ -14,7 +14,7 @@ Huge props to littleau and the Dank group for helping with patching newer client
 ## Roadmap
 * 2007E - NP (CV March 2007, has multiple security vulnerabilities)
 * 2007M - Y (CV August 2007, has multiple security vulnerabilities)
-* 2016S - PT (CV v271/December 2016 (SYNTAX/RBLXHUB/IDK16/RFD), use normal Kanvas instead since they have the same version)
+* 2016S - NP (CV v271/December 2016 (SYNTAX/RBLXHUB/IDK16/RFD), use normal Kanvas instead since they have the same version)
 * 2017E - Y (CV v283/March 2017)
 * 2017M - Y (CV v300/July 2017, client is v299)
 * 2017L - Y (CV v314/October 2017, client is Project X's 2017L from 2024M (pre-SkidHOOKS))
