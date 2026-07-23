@@ -4,6 +4,8 @@ https://codeberg.org/ThoriumLauncher
 Unofficial clients for Kanvas. Get them in the Releases tab.
 
 Huge props to littleau and the Dank group for helping with patching newer clients. Since the Kanvas developer team has not decided on finishing newer clients yet, we are making our own and releasing them for free.
+## Notice about 2018+ clients
+Any client above 2017L is extremely hard to patch. Many of the APIs that newer clients use aren't even implemented in Kanvas, and even then patching 2017L was nearly impossible.
 ## Key
 * N = NO
 * Y = YES
